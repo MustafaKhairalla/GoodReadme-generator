@@ -1,0 +1,22 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "this is an application that will prompt the user to enter a name and get a md file generated that contain the info of that user from github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustafaKhairalla/GoodReadme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "mustafakhairalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MustafaKhairalla/GoodReadme-generator/issues"
+  },
+  "homepage": "https://github.com/MustafaKhairalla/GoodReadme-generator#readme"
+}
